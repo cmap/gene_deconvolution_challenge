@@ -1,0 +1,12 @@
+﻿1) Country of residence
+Russia
+
+2) Highest academic degree achieved
+Master
+
+3) Main motivation for competing in this challenge
+The short duration of the competition
+
+4) How difficult/enjoyable the problem and actual competition of this MM was relative to standard MMs on Topcoder?
+This is my first competition, can't answer this question.
+Because it's my first competition I do not know exactly how to make a decision, please write if I doing something wrong.
